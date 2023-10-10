@@ -3,7 +3,7 @@
 
 # `WNS india`
 
-#Psychometric & Cognitive Assessment
+#Psychometric & Cognitive Assessment (Aptitude test)
 
 - `Website `: `https://cocubes.in/wnsindia` [visit](https://cocubes.in/wnsindia)
 - `passkey`: `784159`
