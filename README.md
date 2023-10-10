@@ -5,7 +5,7 @@
 
 #Psychometric & Cognitive Assessment
 
-- `Website `: `https://cocubes.in/wnsindia`
+- `Website `: `https://cocubes.in/wnsindia` [visit](https://cocubes.in/wnsindia)
 - `passkey`: `784159`
 - `duration`: 30 minutes
 - `sections` : 2
