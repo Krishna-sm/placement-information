@@ -1,7 +1,7 @@
 # placement-information
 
 
-# `WNS india`
+# `WNS india` [visit](https://www.wns.com/)
 
 #Psychometric & Cognitive Assessment (Aptitude test)
 
